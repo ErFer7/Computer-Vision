@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "computer-vision"
+version = "0.1.0"
+description = "Project for the course INE5443 (INE410121) at UFSC"
+authors = ["Eric Fernandes Evaristo <ericfernandes7@gmail.com>"]
+license = "GPL-3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
