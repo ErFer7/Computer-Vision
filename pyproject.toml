@@ -8,6 +8,23 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+torch = "2.5.1"
+tensorboard = "^2.18.0"
+pillow = "^11.0.0"
+torchvision = "^0.20.1"
+accelerate = "^1.1.1"
+huggingface-hub = "^0.26.2"
+transformers = "^4.46.3"
+datasets = "^3.1.0"
+evaluate = "^0.4.3"
+bitsandbytes = "^0.44.1"
+trl = "^0.12.1"
+peft = "^0.13.2"
+qwen-vl-utils = "^0.0.8"
+python-dotenv = "^1.0.1"
+ipykernel = "^6.29.5"
+unsloth = "^2024.11.9"
+matplotlib = "^3.9.2"
 
 
 [build-system]
