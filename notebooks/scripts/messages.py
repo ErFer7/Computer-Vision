@@ -10,11 +10,18 @@ def add_inference_message(message: str, messages: list = None) -> list:
 
     messages = messages if messages is not None else []
     messages.append(
-        {'role': 'user',
-         'content': [
-             {'type': 'text',
-              'text': message}]
-         }
+        {
+            'role': 'user',
+            'content': [
+                {
+                    'type': 'image'
+                },
+                {
+                    'type': 'text',
+                    'text': message
+                }
+            ]
+        }
     )
 
     return messages

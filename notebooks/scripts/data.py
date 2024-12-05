@@ -2,8 +2,6 @@
 Preparação dos dados de treinamento.
 '''
 
-import pandas as pd
-
 from tqdm.notebook import tqdm
 from datasets import Dataset
 from sklearn.model_selection import train_test_split

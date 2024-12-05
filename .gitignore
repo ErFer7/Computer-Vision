@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 unsloth_compiled_cache
+weights
+test_data
