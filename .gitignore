@@ -163,4 +163,4 @@ cython_debug/
 
 unsloth_compiled_cache
 weights
-test_data
+analysis
