@@ -1,0 +1,407 @@
+{
+    "model": "../weights/LLaMA_DERM_QLoRA_500_11B",
+    "data_size": 100,
+    "type": "open",
+    "results": [
+        {
+            "expected": "vascular lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is basal cell carcinoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is basal cell carcinoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is basal cell carcinoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "The skin lesion in the image is melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "The skin lesion in the image is benign keratosis-like lesions."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "The skin lesion in the image is vascular lesions."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is benign keratosis-like lesions."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "The skin lesion in the image is basal cell carcinoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is benign keratosis-like lesions."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is benign keratosis-like lesions."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is basal cell carcinoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "The skin lesion in the image is basal cell carcinoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "The skin lesion in the image is melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "The skin lesion in the image is actinic keratoses."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "The skin lesion in the image is melanocytic Nevi."
+        }
+    ]
+}

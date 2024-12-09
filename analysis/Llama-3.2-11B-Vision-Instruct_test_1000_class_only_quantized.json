@@ -1,0 +1,4007 @@
+{
+    "model": "unsloth/Llama-3.2-11B-Vision-Instruct",
+    "data_size": 1000,
+    "type": "class_only",
+    "results": [
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "**Step 1: Identify the characteristics of the skin lesion in the image.**\n\nThe skin lesion in the image is a pinkish-brown, dome-shaped nodule with a smooth surface and a central depression.\n\n**Step 2: Compare the characteristics with the diseases listed.**\n\n*   Melanocytic Nevi: Typically have a brown or black color and are usually flat.\n*   Melanoma: Can have a variety of colors and shapes, but often has an irregular border and may be raised.\n*   Benign Keratosis-like Lesions: Usually have a rough, scaly surface and may be brown or"
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanocytic Nevi."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "dermatofibroma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "**Step 1: Identify the key features of the skin lesion in the image.**\n\nThe image shows a pinkish-red, flat, and slightly raised lesion with a smooth surface.\n\n**Step 2: Compare the features with the characteristics of each disease option.**\n\n*   Melanocytic Nevi: Typically have a brown or black color and are usually raised.\n*   Melanoma: Can appear as a new mole or a change in an existing mole, often with irregular borders and colors.\n*   Benign Keratosis-like Lesions: Usually have a rough, scaly surface and are often found on sun-ex"
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Dermatofibroma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "**Step 1: Identify the characteristics of the skin lesion in the image.**\n\nThe skin lesion in the image is characterized by a large, flat, pigmented area with a rough surface and a few small, dark spots.\n\n**Step 2: Compare the characteristics with the diseases listed.**\n\nMelanocytic Nevi: Typically have a smooth surface and are not usually pigmented.\n\nMelanoma: Can have a rough surface and may be pigmented, but it is usually smaller than the lesion in the image.\n\nBenign Keratosis-like Lesions: Often have a rough surface and may be pigmented, but they"
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "vascular lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "actinic keratoses",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "benign keratosis-like lesions",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "basal cell carcinoma",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        },
+        {
+            "expected": "melanocytic Nevi",
+            "actual": "Melanoma."
+        }
+    ]
+}
