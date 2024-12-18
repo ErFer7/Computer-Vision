@@ -21,6 +21,6 @@ Com os passos acima executados, todas as dependências deverão estar instaladas
 ### Links
 
 * **Dataset**: [marmal88/skin_cancer](https://huggingface.co/datasets/marmal88/skin_cancer)
-* **Repositório com o modelo no HuggingFace**: [ErFer7/LLaDerm](https://huggingface.co/ErFer7/LLaDerm)
+* **Repositório com o modelo treinado com QLoRA e 9500 amostras (o modelo final obtido) no HuggingFace**: [ErFer7/LLaDerm](https://huggingface.co/ErFer7/LLaDerm)
 * **Apresentação**: [Canva](https://www.canva.com/design/DAGY2P2Afng/Jxcj384sBYAeLV5roRdZPQ/edit?utm_content=DAGY2P2Afng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * **Vídeo**: [Fine-tuning para Classificação de Lesões na Pele | Visão Computacional (Grupo 17)](https://www.youtube.com/watch?v=1SDpDjOchc0)
