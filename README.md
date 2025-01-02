@@ -5,7 +5,6 @@ Este repositório contém o código do trabalho desenvolvido para a disciplina d
 ### Informações sobre os diretórios
 
 * _analysis_: Contém os testes realizados sobre os modelos;
-* _exported\_notebooks_: Contém os notebooks dos treinamentos exportados em HTML;
 * _notebooks_: Contém o código utilizado no desenvolvimento;
 
 ### Instalação
