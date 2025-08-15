@@ -2,6 +2,10 @@
 
 Este repositório contém o código do trabalho desenvolvido para a disciplina de Visão Computacional (INE410121) da UFSC.
 
+### Atualização:
+
+Os trabalhos realizados nesse repositório foram continuados no repositório [LLaDerm](https://github.com/ErFer7/LLaDerm)
+
 ### Informações sobre os diretórios
 
 * _analysis_: Contém os testes realizados sobre os modelos;
